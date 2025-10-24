@@ -120,7 +120,7 @@
 <br><strong>PyCharm</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter style="background-color:white;padding:5px;border-radius:5px;"" />
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" style="background-color:white;padding:5px;border-radius:5px;"" />
 <br><strong>Jupyter</strong>
 </td>
 <td align="center" width="96">
