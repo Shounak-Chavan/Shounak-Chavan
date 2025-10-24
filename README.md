@@ -1,12 +1,7 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shounak+Chavan" alt="Typing SVG" />
-  </h1>
-
+  <h1>Hi 👋, I'm Shounak Chavan</h1>
   <h3>💫 Computer Science Student | 🚀 Data Science Enthusiast | 🎯 Problem Solver</h3>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+📊;Machine+Learning+Explorer+🤖;Building+Placement+Prediction+Systems+🎓;Future+Tech+Innovator+⚡;Passionate+Coder+%26+Learner+✨" alt="Typing SVG" />
-  
+  <h4>📊 Aspiring Data Scientist | 🤖 Machine Learning Explorer | ⚡ Future Tech Innovator</h4>
 </div>
 
 ---
@@ -25,45 +20,115 @@
 
 <div align="center">
 
-#### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-</p>
-<p><b>Python | Java | C | C++ | JavaScript</b></p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+</tr>
 
-#### Data Science & ML
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-</p>
-<p><b>Pandas | NumPy | TensorFlow | OpenCV | Scikit-learn</b></p>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>NumPy</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br><strong>Sklearn</strong>
+</td>
+</tr>
 
-#### Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</p>
-<p><b>MySQL | MongoDB | PostgreSQL | Git | GitHub</b></p>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>Matplotlib</strong>
+</td>
+<td align="center" width="96">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>Seaborn</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br><strong>Flask</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
+<br><strong>Streamlit</strong>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>Keras</strong>
+</td>
+</tr>
 
-#### Development Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-</p>
-<p><b>Jupyter | VS Code | PyCharm | Anaconda | Flask</b></p>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+<br><strong>PyCharm</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+<br><strong>Jupyter</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+<br><strong>Anaconda</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
