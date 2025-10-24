@@ -143,6 +143,24 @@
 
 ---
 
+### 💻 LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/Shounak_Chavan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shounak_Chavan?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <i>🎯 Consistently solving problems to sharpen problem-solving skills!</i>
+</p>
+
+---
+
 ### 🏅 GitHub Stats
 
 <p align="center">
