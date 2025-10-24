@@ -9,7 +9,6 @@
 
 - 🎓 CS student at **VIIT** passionate about **Data Science** and **Machine Learning**
 - 📚 Working on **Placement Prediction Systems** and ML model optimization
-- 🌍 Preparing for **IELTS** and planning international education (Germany)
 - 💡 Passionate about problem-solving, coding, and continuous learning
 - ⚡ Fun fact: I believe in learning by doing!
 
