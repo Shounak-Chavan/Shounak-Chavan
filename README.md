@@ -93,7 +93,7 @@
 <br><strong>FastAPI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
+<img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit style="background-color:white;padding:5px;border-radius:5px;"" />
 <br><strong>Streamlit</strong>
 </td>
 <td align="center" width="96">
@@ -120,11 +120,11 @@
 <br><strong>PyCharm</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter style="background-color:white;padding:5px;border-radius:5px;"" />
 <br><strong>Jupyter</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anacon style="background-color:white;padding:5px;border-radius:5px;"da" />
 <br><strong>Anaconda</strong>
 </td>
 </tr>
