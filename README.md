@@ -9,7 +9,6 @@
 ### 🚀 About Me
 
 - 🎓 CS student at **VIIT** passionate about **Data Science** and **Machine Learning**
-- 📚 Working on **Placement Prediction Systems** and ML model optimization
 - 💡 Love solving complex problems through coding and innovation
 - ⚡ Fun fact: I believe in learning by doing!
 - 🎯 Goal: Master Data Science & build impactful AI solutions
