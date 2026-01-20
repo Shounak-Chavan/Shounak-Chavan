@@ -1,17 +1,16 @@
 <div align="center">
   <h1>Hi 👋, I'm Shounak Chavan</h1>
-  <h3>💫 Computer Science Student | 🚀 Data Science Enthusiast | 🎯 Problem Solver</h3>
-  <h4>📊 Aspiring Data Scientist | 🤖 Machine Learning Explorer | ⚡ Future Tech Innovator</h4>
+  <h3>💫 Computer Science Student | 🎯 Problem Solver</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CS student at **VIIT** passionate about **Data Science** and **Machine Learning**
+- 🎓 CS student at **VIIT** 
 - 💡 Love solving complex problems through coding and innovation
 - ⚡ Fun fact: I believe in learning by doing!
-- 🎯 Goal: Master Data Science & build impactful AI solutions
+- 🎯 Goal: Master & build impactful AI solutions
 
 ---
 
@@ -135,10 +134,9 @@
 
 ### 📈 Current Focus
 
-- 🔬 **Recent Project:** Placement Prediction ML System using advanced algorithms
 - 📊 **Exploring:** FastAPI, Cloud Technologies (AWS), and Research Methodology
 - ✍️ **Improving:** Resume optimization, technical interview preparation
-- 🌟 **Building:** Portfolio of real-world ML projects
+- 🌟 **Building:** Portfolio of real-world projects
 
 ---
 
