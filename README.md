@@ -139,7 +139,7 @@
 - 🌟 **Building:** Portfolio of real-world projects
 
 ---
-
+<!--
 ### 💻 LeetCode Journey
 
 <p align="center">
@@ -157,6 +157,7 @@
 </p>
 
 ---
+-->
 
 ### 🏅 GitHub Stats
 
