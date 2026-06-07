@@ -181,6 +181,33 @@
 </td>
 </tr>
 
+<tr>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=celery" width="48" height="48" alt="Celery" />
+<br><strong>Celery</strong>
+</td>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+<br><strong>Prometheus</strong>
+</td>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" width="48" height="48" alt="Grafana" />
+<br><strong>Grafana</strong>
+</td>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="48" height="48" alt="Qdrant" />
+<br><strong>Qdrant</strong>
+</td>
+<td align="center" width="96">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=razorpay" width="48" height="48" alt="Razorpay" />
+<br><strong>Razorpay</strong>
+</td>
+</tr>
+
 </table>
 
 </div>
