@@ -14,6 +14,8 @@
 
 ---
 
+
+
 ### 🛠️ Skills & Tech Stack
 
 <div align="center">
@@ -64,8 +66,8 @@
 <br><strong>CrewAI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/pydanticai-color.png" width="48" height="48" alt="Pydantic" />
-<br><strong>Pydantic</strong>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="48" height="48" alt="Qdrant" />
+<br><strong>Qdrant</strong>
 </td>
 <td align="center" width="96">
 <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" width="48" height="48" alt="Ollama" />
@@ -79,24 +81,24 @@
 <br><strong>FastAPI</strong>
 </td>
 <td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/pydanticai-color.png" width="48" height="48" alt="Pydantic" />
+<br><strong>Pydantic</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
 <br><strong>Flask</strong>
 </td>
 <td align="center" width="96">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
-<br><strong>Streamlit</strong>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="background-color:white;padding:5px;border-radius:5px;" />
-<br><strong>Pandas</strong>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=celery" width="48" height="48" alt="Celery" />
+<br><strong>Celery</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" style="background-color:white;padding:5px;border-radius:5px;" />
-<br><strong>Matplotlib</strong>
-</td>
-<td align="center" width="96">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" style="background-color:white;padding:5px;border-radius:5px;" />
-<br><strong>Seaborn</strong>
+<img src="https://cdn.simpleicons.org/razorpay/3395FF" width="48" height="48" alt="Razorpay" />
+<br><strong>Razorpay</strong>
 </td>
 </tr>
 
@@ -106,16 +108,16 @@
 <br><strong>NumPy</strong>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="background-color:white;padding:5px;border-radius:5px;" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
 <br><strong>Sklearn</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 <br><strong>TensorFlow</strong>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" style="background-color:white;padding:5px;border-radius:5px;" />
-<br><strong>Keras</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
@@ -164,33 +166,6 @@
 <br><strong>GitHub</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
-<br><strong>Jupyter</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-<br><strong>Anaconda</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
-<br><strong>PyCharm</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" width="48" height="48" alt="Redis" />
-<br><strong>Redis</strong>
-</td>
-<td align="center" width="96">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=celery" width="48" height="48" alt="Celery" />
-<br><strong>Celery</strong>
-</td>
-<td align="center" width="96">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
 <br><strong>Prometheus</strong>
 </td>
@@ -199,12 +174,12 @@
 <br><strong>Grafana</strong>
 </td>
 <td align="center" width="96">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="48" height="48" alt="Qdrant" />
-<br><strong>Qdrant</strong>
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/razorpay/3395FF" width="48" height="48" alt="Razorpay" />
-<br><strong>Razorpay</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
+<br><strong>Jupyter</strong>
 </td>
 </tr>
 
