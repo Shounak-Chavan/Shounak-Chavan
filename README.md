@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🔧 Backend developer focused on building scalable APIs and microservices with **FastAPI** and **Python**.
-- 🤖 Building with **Generative AI & Agentic Systems** — LLMs, RAG pipelines, multi-agent workflows and autonomous agents.
+- 🤖 Building **Generative AI & Agentic Systems** — LLMs, RAG pipelines, multi-agent workflows and autonomous agents.
 - 🧠 Exploring **ML & Deep Learning** — from model training to real-world deployment.
 - ☁️ Comfortable shipping to cloud — **AWS · Docker · Supabase · Vercel · Render**.
 - 🎯 Goal: Ship production-grade AI backends and agentic applications that solve real problems.
