@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Shounak Chavan</h1>
-  <h3>💫 Computer Science Student @ VIIT | 🎯 Problem Solver</h3>
+  <h3>💫 Computer Engineering Student @ VIIT | 🎯 Problem Solver</h3>
 </div>
 
 ---
