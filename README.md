@@ -11,7 +11,6 @@
 - 🤖 Building **Generative AI & Agentic Systems** — LLMs, RAG pipelines, multi-agent workflows and autonomous agents.
 - 🧠 Exploring **ML & Deep Learning** — from model training to real-world deployment.
 - ☁️ Comfortable shipping to cloud — **AWS · Docker · Supabase · Vercel · Render**.
-- 🎯 Goal: Ship production-grade AI backends and agentic applications that solve real problems.
 
 ---
 
@@ -193,8 +192,8 @@
 - 💻 **Solving:** DSA problems on **LeetCode** daily to stay sharp for technical interviews.
 - 🔨 **Building:** GenAI-powered backend systems, RAG pipelines and multi-agent applications.
 - 📚 **Learning:** Advanced LLM orchestration, agentic frameworks and cloud-native deployments on AWS.
-- 🚀 **Exploring:** LangGraph, CrewAI, Pydantic AI and cutting-edge agentic system patterns.
-- 🎯 **Goal:** Land a backend/AI engineering role and ship real-world impactful AI products.
+- 🚀 **Exploring:** LangChain, LangGraph, CrewAI and cutting-edge agentic system patterns.
+- 🎯 **Goal:** Build and deploy production-ready agentic AI systems that create real impact at scale.
 
 ---
 
