@@ -178,8 +178,8 @@
 <br><strong>VS Code</strong>
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
-<br><strong>Jupyter</strong>
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
 </td>
 </tr>
 
