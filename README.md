@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me :
 
 - 🔧 Backend developer focused on building scalable APIs and microservices with **FastAPI** and **Python**.
 - 🤖 Building **Generative AI & Agentic Systems** — LLMs, RAG pipelines, multi-agent workflows and autonomous agents.
@@ -16,7 +16,7 @@
 
 
 
-### 🛠️ Skills & Tech Stack
+### 🛠️ Skills & Tech Stack :
 
 <div align="center">
 
@@ -189,7 +189,7 @@
 
 ---
 
-### 📈 Current Focus
+### 📈 Current Focus :
 
 - 💻 **Solving:** DSA problems on **LeetCode** daily to stay sharp for technical interviews.
 - 🔨 **Building:** GenAI-powered backend systems, RAG pipelines and multi-agent applications.
@@ -199,7 +199,7 @@
 
 ---
 
-### 💻 LeetCode Journey
+### 💻 LeetCode Journey :
 
 <p align="center">
   <a href="https://leetcode.com/u/Shounak_Chavan/" target="_blank">
@@ -217,7 +217,7 @@
 
 ---
 
-### 🏅 GitHub Stats
+### 🏅 GitHub Stats :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shounak-Chavan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -229,7 +229,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shounak-chavan-224437291/" target="_blank">
