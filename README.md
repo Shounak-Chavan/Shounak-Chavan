@@ -203,7 +203,7 @@
 <br><strong>Qdrant</strong>
 </td>
 <td align="center" width="96">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=razorpay" width="48" height="48" alt="Razorpay" />
+<img src="https://cdn.simpleicons.org/razorpay/3395FF" width="48" height="48" alt="Razorpay" />
 <br><strong>Razorpay</strong>
 </td>
 </tr>
